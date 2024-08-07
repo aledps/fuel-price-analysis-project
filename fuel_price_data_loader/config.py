@@ -1,0 +1,12 @@
+# Snowflake configuration
+SNOWFLAKE_USER = ''
+SNOWFLAKE_PASSWORD = ''
+SNOWFLAKE_ACCOUNT = ''
+SNOWFLAKE_DATABASE = ''
+SNOWFLAKE_SCHEMA = ''
+SNOWFLAKE_GAS_STATION_TABLE = ''
+SNOWFLAKE_DISCOUNT_TABLE = ''
+
+# Excel file configuration
+EXCEL_FILE_PATH = r''
+EXCEL_FILE_NAME = 'discount.xlsx'
